@@ -1,4 +1,3 @@
-import { Box } from '@mui/material'
 import './App.css'
 import Terminal from './terminal/Terminal'
 

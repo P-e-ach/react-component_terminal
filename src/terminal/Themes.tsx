@@ -5,7 +5,7 @@ import { createTheme } from '@mui/material/styles';
 
 const terminalDefaultTheme = createTheme({
     typography: {
-        fontFamily: 'hack, Fira Code, monospace',
+        fontFamily: 'Hack, Fira Code, monospace',
     },
     palette: {
         primary: { main: '#f50057' },
