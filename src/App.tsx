@@ -1,0 +1,14 @@
+import { Box } from '@mui/material'
+import './App.css'
+import Terminal from './terminal/Terminal'
+
+function App() {
+
+  return (
+    <>
+      <Terminal />
+    </>
+  )
+}
+
+export default App
